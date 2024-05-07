@@ -20,3 +20,8 @@ git branch er notað til að lista, búa til eða deleta branches í repositoryi
 4.
 
 Version control geturu notað til apð skoða braytingar á file
+
+5.
+
+þú getur unnið léttilega með fólk í kringum heimin.
+
