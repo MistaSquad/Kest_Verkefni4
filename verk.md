@@ -28,3 +28,8 @@ Version control geturu notað til apð skoða braytingar á file
 6.
 
 í minnsta lægi fyrir pásur eða lok dags
+
+7.
+
+Working Directory er staðurinn þar sem þú vinnur í skránum þínum, á meðan Staging Area er svæðið sem þú tilgreinir hvaða breytingar þú vilt skrá í næsta commit í Git.
+
