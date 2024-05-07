@@ -16,3 +16,7 @@ git diff sýnir munnin á directory og index
 git log sýnir öll commit sem þú hefur gert
 git checkout er notað til að fara afturábak til eldri gerð
 git branch er notað til að lista, búa til eða deleta branches í repositoryið
+
+4.
+
+Version control geturu notað til apð skoða braytingar á file
