@@ -25,3 +25,6 @@ Version control geturu notað til apð skoða braytingar á file
 
 þú getur unnið léttilega með fólk í kringum heimin.
 
+6.
+
+í minnsta lægi fyrir pásur eða lok dags
