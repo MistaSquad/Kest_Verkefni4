@@ -12,3 +12,7 @@ git status kíkjir á stöðu á directory og hvort það þarf að commita
 git diff sýnir munnin á directory og index
 
 3.
+
+git log sýnir öll commit sem þú hefur gert
+git checkout er notað til að fara afturábak til eldri gerð
+git branch er notað til að lista, búa til eða deleta branches í repositoryið
